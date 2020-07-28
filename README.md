@@ -1,4 +1,4 @@
-# [App-Landing](https://devdap.com/themes/app-landing-page/)
+# [App-Landing]
 
 App Landing Page is the latest created bootstrap template and has proven to be one of the most successful landing page ever released also avaliable in multiple versions [Bootstrap](https://getbootstrap.com/), [Ruby On Rails](https://rubyonrails.org/), [Asp.NET MVC](https://www.asp.net/), [.NET Core 2.0](https://www.asp.net/core/overview/aspnet-vnext).
 
@@ -6,7 +6,6 @@ App Landing Page is the latest created bootstrap template and has proven to be o
 
 ![screenshot_2019-01-22 app landing page devdap](https://user-images.githubusercontent.com/35004804/51513288-e8d1c780-1e2b-11e9-943b-0139ffbe65ad.jpg)
 
-### [View Live Preview](http://www.devdap-theme.s3-website.us-east-2.amazonaws.com/LandingPages/app/)
 
 ### Status
 
@@ -60,16 +59,3 @@ Simply Download the theme and Extract it. Open ROR Terminal and go to the theme 
 For asp net website templates simply download the theme and extract it.Then open theme folder and find `.sln` file and open this file in the visual studio. When theme files and folders loaded properly in the visual studion then click RUN button.
 Download or Fork the bit.app repository. And Put in the Sites folder locally and extract it. Then Run `BUNDLE INSTALL` for installing Ruby Gems. Then start your local server using `Rails Server /  Rails s` and check the theme in the browser using `http://localhost:3000`.
 
-### Contributing
-
-Contributions are welcome from everyone.
-
-### Community
-
-Keep track of development and community news at [devdap](http://devdap.com)
-
-#### Exclusive Admin was created and maintained by [Asad ALi](https://devdap.com/about-us) Founder of [devdap](https://devdap.com).
-
-### Copyright and License
-
-© 2018 [devdap](https://devdap.com). All rights reserved. Code released under the [MIT](https://github.com/devdap/App-Landing/blob/master/LICENSE) license.
